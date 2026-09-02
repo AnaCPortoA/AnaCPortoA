@@ -38,7 +38,7 @@ Meu primeiro projeto desenvolvido com HTML e CSS.
 
 ## 📫 Contato
 
-* 💼 GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
+* 💼 GitHub: [@AnaCPortoA](https://github.com/AnaCPortoA)
 * 📧 E-mail: [anacarolina14435@gmail.com)
 
 
