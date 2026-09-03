@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou [Ana Carolina]
+#  Olá, eu sou [Ana Carolina]
 
-💻 Desenvolvedor apaixonado por tecnologia e programação.
+ Desenvolvedor apaixonado por tecnologia e programação.
 
-🚀 Atualmente estou aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web.
+ Atualmente estou aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web.
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
-* 🔭 Atualmente trabalhando em projetos pessoais
-* 🌱 Estudando HTML, CSS, JavaScript e outras tecnologias
-* 🎯 Meu objetivo é evoluir cada vez mais como desenvolvedor
-* 💡 Gosto de criar projetos e aprender coisas novas
-* 📚 Sempre buscando novos conhecimentos
+*  Atualmente trabalhando em projetos pessoais
+*  Estudando HTML, CSS, JavaScript e outras tecnologias
+*  Meu objetivo é evoluir cada vez mais como desenvolvedor
+*  Gosto de criar projetos e aprender coisas novas
+*  Sempre buscando novos conhecimentos
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,28 +22,28 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## 📊 GitHub
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
 
-## 🚀 Projetos
+##  Projetos
 
-### 🌐 Meu Site
+###  Meu Site
 
 Meu primeiro projeto desenvolvido com HTML e CSS.
 
 🔗 [Ver projeto](https://github.com/SEU_USUARIO/meu-site)
 
-## 📫 Contato
+##  Contato
 
-* 💼 GitHub: [@AnaCPortoA](https://github.com/AnaCPortoA)
-* 📧 E-mail: [anacarolina14435@gmail.com)
+*  GitHub: [@AnaCPortoA](https://github.com/AnaCPortoA)
+*  E-mail: [anacarolina14435@gmail.com)
 
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+ Obrigado por visitar meu perfil!
 
-**"Sempre aprendendo, sempre evoluindo."** 🚀
+**"Sempre aprendendo, sempre evoluindo."** 
