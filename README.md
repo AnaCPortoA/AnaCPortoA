@@ -1,6 +1,5 @@
 #  Olá, eu sou [Ana Carolina]
 
- Desenvolvedor apaixonado por tecnologia e programação.
 
  Atualmente estou aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web.
 
@@ -34,7 +33,7 @@
 
 Meu primeiro projeto desenvolvido com HTML e CSS.
 
-🔗 [Ver projeto](https://github.com/SEU_USUARIO/meu-site)
+🔗 [Ver projeto]()
 
 ##  Contato
 
