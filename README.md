@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src = "https://ibb.co/Q71vTTtK" alt= "Python vs Java vs C" width="100%">
+  <img src = "https://www.imagem.app/image/52f21d2a-6e30-4d87-aadc-999d2cfde68c.GqNI6G" alt= "Python vs Java vs C" width="100%">
 </p>
  Atualmente estou aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web.
 
