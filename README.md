@@ -1,4 +1,4 @@
-#  Olá, eu sou [Ana Carolina]
+#  Olá, eu sou **Ana Carolina**
 
 
 <p align="center">
