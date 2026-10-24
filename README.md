@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  <img src="Banner.jpg" width="100%">
 </p>
  Atualmente estou aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web.
 
